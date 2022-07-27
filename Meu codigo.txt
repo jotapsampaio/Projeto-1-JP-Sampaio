@@ -1,2 +1,2 @@
-Óla meu nome é João Paulo Sampaio.
+Óla meu nome é João Paulo Sampaio, sou programador iniciante.
 Essa é uma modificação para testa o git com o github.
